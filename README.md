@@ -20,7 +20,7 @@ print('고양이는 너무 귀여워요!!!')
 ![고양이](https://user-images.githubusercontent.com/72846761/96083581-6428b600-0ef8-11eb-8789-46c0ce76e77d.jpg)
 
 ## Reference 
-[꼬부기 아빠](https://www.youtube.com/channel/UClEqDi7kPiQ64NlmCoWtwxQ, "Youtube Link")
+[매탈남](https://www.youtube.com/channel/UC29-IlHm6kbDB1ox8GthODw, "Youtube Link")
 
 ## Issue
 - So cute
@@ -28,10 +28,3 @@ print('고양이는 너무 귀여워요!!!')
     - cutie cute
 
 
-## Cast
-
-꼬부기 아빠
-- Goboogi
-- Chobee
-- Cheddar
-- Creamy
