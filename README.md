@@ -17,7 +17,7 @@ print('고양이는 너무 귀여워요!!!')
 ```
 ## Example
 
-![kitties](https://user-images.githubusercontent.com/72849752/96079681-4e16f780-0ef0-11eb-8676-b2e09b728b83.jpg)
+![고양이](https://user-images.githubusercontent.com/72846761/96083581-6428b600-0ef8-11eb-8789-46c0ce76e77d.jpg)
 
 ## Reference 
 [꼬부기 아빠](https://www.youtube.com/channel/UClEqDi7kPiQ64NlmCoWtwxQ, "Youtube Link")
